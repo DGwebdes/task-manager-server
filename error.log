@@ -1,0 +1,9 @@
+{"error":"Cast to Number failed for value \"low\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:08.855Z"}
+{"error":"Cast to Number failed for value \"medium\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:10.207Z"}
+{"error":"Cast to Number failed for value \"medium\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:11.417Z"}
+{"error":"Cast to Number failed for value \"medium\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:12.561Z"}
+{"error":"Cast to Number failed for value \"medium\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:15.291Z"}
+{"error":"Cast to Number failed for value \"low\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:49.210Z"}
+{"error":"Cast to Number failed for value \"low\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:51.440Z"}
+{"error":"Cast to Number failed for value \"low\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:53.239Z"}
+{"error":"Cast to Number failed for value \"medium\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:54.848Z"}
