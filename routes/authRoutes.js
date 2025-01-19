@@ -62,7 +62,7 @@ authRouter.post('/login', limiter, async (req, res) => {
         user.refreshToken = refreshToken;
         await user.save();
 
-        res.status(200).json({ message: 'Login Successful', token, refreshToken })
+        res.status(200).json({ message: 'Login Successful', token, refreshToken, user })
     } catch (err) {
         logger.error('Error logging in user', { err });
         errorResponse(res, 500, 'Error logging in', err.message);

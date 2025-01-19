@@ -1,9 +1,3 @@
-const Task = require('./taskModel'); // Adjust the path as needed
-const dotenv = require('dotenv');
-dotenv.config();
-const connectDB = require('../db/db')
-
-
 const PRIORITY_MAP = { 1: 'low', 2: 'medium', 3: 'high' };
 
 async function updatePriorities() {

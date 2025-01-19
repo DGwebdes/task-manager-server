@@ -57,3 +57,5 @@
 {"error":"Cast to Number failed for value \"low\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:53.239Z"}
 {"error":"Cast to Number failed for value \"medium\" (type string) at path \"priority\" for model \"Task\"","level":"error","message":"Error fetching tasks","timestamp":"2025-01-18T04:59:54.848Z"}
 {"level":"warn","message":"All fields are required","timestamp":"2025-01-18T05:36:43.492Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-19T02:26:31.701Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-19T02:55:32.695Z"}

@@ -14,6 +14,8 @@ connectDB();
 //Routers
 app.use('/tasks', taskRouter);
 app.use('/auth', authRouter);
+
+
 //initilize server
 app.listen(PORT, () => {
     console.log(`App listening on port :${PORT}`);
