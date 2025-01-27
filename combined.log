@@ -59,3 +59,16 @@
 {"level":"warn","message":"All fields are required","timestamp":"2025-01-18T05:36:43.492Z"}
 {"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-19T02:26:31.701Z"}
 {"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-19T02:55:32.695Z"}
+{"email":"omikamiandme@gmail.com","level":"warn","message":"User already exists","timestamp":"2025-01-27T23:30:21.212Z"}
+{"email":"omikamiandme@gmail.com","level":"warn","message":"User already exists","timestamp":"2025-01-27T23:31:13.387Z"}
+{"email":"omikamiandme@gmail.com","level":"warn","message":"User already exists","timestamp":"2025-01-27T23:32:49.439Z"}
+{"email":"aldiecosta@gmail.com","level":"warn","message":"User not found","timestamp":"2025-01-27T23:34:53.426Z"}
+{"email":"aldiecosta@gmail.com","level":"warn","message":"User not found","timestamp":"2025-01-27T23:35:14.451Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-27T23:41:14.963Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-27T23:42:56.160Z"}
+{"email":"alanbilik8@gmail.coma","level":"warn","message":"User not found","timestamp":"2025-01-27T23:43:41.090Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-27T23:44:47.400Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-27T23:44:59.785Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-27T23:45:16.607Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-27T23:47:03.223Z"}
+{"email":"alanbilik8@gmail.com","level":"warn","message":"Invalid password","timestamp":"2025-01-27T23:51:56.792Z"}
