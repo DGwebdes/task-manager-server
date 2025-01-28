@@ -7,6 +7,10 @@ const authRouter = require('./routes/authRoutes');
 
 const PORT = process.env.PORT || 3000;
 const app = express();
+
+// Trust the first proxy
+app.set('trust proxy', 1);
+
 app.use(cors());
 app.use(express.json());
 //Connecting to DB
